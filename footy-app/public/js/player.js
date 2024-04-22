@@ -10,8 +10,6 @@ function getFetch(){
       .then(data => {
         console.log(data)
         
-        
-        
         document.querySelector('#playerName').innerText = data.player[0].strPlayer
         document.querySelector('#playerImage').src = data.player[0].strThumb
         document.querySelector('#playerNation').innerText = data.player[0].strNationality
@@ -20,9 +18,6 @@ function getFetch(){
         document.querySelector('#position').innerText = data.player[0].strPosition
         document.querySelector('#foot').innerText = data.player[0].strSide
         document.querySelector('#jersey').innerText = data.player[0].strNumber
-        
-
-
        
       })
       .catch(err => {
