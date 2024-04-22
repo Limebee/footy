@@ -3,15 +3,16 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main>
-      <header>
-        <h1>Footy</h1>
+    <main class="">
+      <header class="bg-[#ffb141] flex justify-center">
+        <img class="" src="/img/default.png"  width={200}
+        height={200}  />
           </header>
-      <section>
-      <input type="text" name="player"/>
-      <button type="button" id="search">Search</button>
-      </section>
-      <section>
+      <section class="bg-red-300">
+        <section>
+        <input type="text" name="player"/>
+      <button class="bg-blue-300" type="button" id="search">Search</button>
+        </section>
         <Image 
         id="playerImage" 
         src=""  
