@@ -20,7 +20,7 @@ export default function Home() {
           <section class="">
             <section class="grid grid-cols-1 md:grid-cols-2 p-10">
               <div class="flex justify-center md:justify-end">
-                <img id="playerImage" src="/img/main-img.jpg"  width={400} height={400} alt="player" />
+                <img id="playerImage" src="/img/main-img.jpg" alt=""  width={400} height={400} />
               </div>
               <div class="bg-[#fccc85] w-full md:w-1/2">
                <h5 class="font-sans text-2xl p-5" id="playerName">John Butler</h5>
