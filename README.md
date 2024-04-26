@@ -19,6 +19,7 @@ Live Link: (https://footy-pi.vercel.app/)
 2. cd into footy-app
 3. Run ```npm install``` in your bash / command line
 4. Run ```npm run dev``` in your bash / command line
+5. The project will be running on ```localhost:3000```
 5. Have fun learning about different players
 
 ## Tech Used / Dependencies
