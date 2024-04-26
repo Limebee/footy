@@ -3,6 +3,8 @@
 
 This app was created for as a Solo Project for Chingu. The app allows users to search information about soccer players. It pulls data from [TheSportsDB API ](https://www.thesportsdb.com/)
 
+Live Link: (https://footy-pi.vercel.app/)
+
 ## Features
 
 * Displays data in a table
