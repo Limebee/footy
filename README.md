@@ -1,26 +1,27 @@
 # footy
 ## Overview
 
-This app was created for a Solo Project for Chingu. The app allows users to search information about soccer players. [It pulls data from TheSportsDB API ](https://www.thesportsdb.com/)
+This app was created for as a Solo Project for Chingu. The app allows users to search information about soccer players. It pulls data from [TheSportsDB API ](https://www.thesportsdb.com/)
 
 ## Features
 
 * Displays data in a table
-* The table includes player information such as photo, Postion, Nationality, etc.
-* Searches display one result that matches a search
-+ Searches are case-insensitive
+* The table includes player information such as photo, postion, nationality, etc.
+* The table displays one result that matches a search
+* Searches are case-insensitive
 
 ## Running This Project
-### Running this project locally
+### Running this project 
+
 1. Clone this project locally
 2. cd into footy-app
 3. Run ```npm install``` in your bash / command line
 4. Run ```npm run dev``` in your bash / command line
-5. Have fun learning about differnt players
+5. Have fun learning about different players
 
 ## Tech Used / Dependencies
 
-This an app that is built with Nextjs and React.
+This an app is built with Nextjs and React.
 
 ### Dev Dependencies
 
