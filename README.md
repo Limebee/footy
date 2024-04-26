@@ -8,7 +8,7 @@ Live Link: (https://footy-pi.vercel.app/)
 ## Features
 
 * Displays data in a table
-* The table includes player information such as photo, postion, nationality, etc.
+* The table includes player information such as photo, position, nationality, etc.
 * The table displays one result that matches a search
 * Searches are case-insensitive
 
@@ -20,7 +20,7 @@ Live Link: (https://footy-pi.vercel.app/)
 3. Run ```npm install``` in your bash / command line
 4. Run ```npm run dev``` in your bash / command line
 5. The project will be running on ```localhost:3000```
-5. Have fun learning about different players
+6. Have fun learning about different players
 
 ## Tech Used / Dependencies
 
