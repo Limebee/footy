@@ -1,5 +1,5 @@
 import Image from "next/image";
-
+import Script from 'next/script'
 
 export default function Home() {
   return (
@@ -55,7 +55,7 @@ export default function Home() {
         </div>
       </section>
     </section>
-      <script src="/js/player.js"></script>
+      <Script src="/js/player.js"></Script>
       </main>
     </div>
   );
